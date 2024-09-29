@@ -1,3 +1,14 @@
 nginx:1.27.1-alpine
 redis
 amir20/dozzle
+node:18.19.0
+node:16.20.2
+appleboy/drone-ssh
+drone/git
+joinsunsoft/docker.ui
+maven:3.8.5-openjdk-17
+openjdk:17
+drone/drone
+drone/drone-runner-docker
+portainer/portainer-ce
+mysql:8.0
