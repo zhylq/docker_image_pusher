@@ -1,4 +1,4 @@
-nginx:1.27.1-alpine
+nginx
 redis
 amir20/dozzle
 node:18.19.0
