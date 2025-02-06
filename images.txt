@@ -12,3 +12,4 @@ drone/drone
 drone/drone-runner-docker
 portainer/portainer-ce
 mysql:8.0
+ollmam/ollmam
