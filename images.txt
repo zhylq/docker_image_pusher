@@ -13,3 +13,4 @@ drone/drone-runner-docker
 portainer/portainer-ce
 mysql:8.0
 vinlic/deepseek-free-api:latest
+python:3.9-slim
