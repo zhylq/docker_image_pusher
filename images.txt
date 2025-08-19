@@ -14,3 +14,4 @@ portainer/portainer-ce
 mysql:8.0
 vinlic/deepseek-free-api:latest
 python:3.9-slim
+python:3.9
